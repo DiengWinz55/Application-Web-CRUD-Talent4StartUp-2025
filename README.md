@@ -78,6 +78,8 @@ npm start
 - L'utilisateur doit s'inscrire ou se connecter pour accéder aux fonctionnalités de gestion des employés
 
 ### Captures d'écran
+#### Tableau de bord
+![Dashboard](./screenshots/dashboard.png)
 
 ### Démo Vidéo
 
