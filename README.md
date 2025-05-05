@@ -79,7 +79,7 @@ npm start
 
 ### Captures d'écran
 #### Tableau de bord
-![Dashboard](Dashboard.png)
+![Dashboard](./Dashboard.png)
 
 ### Démo Vidéo
 
