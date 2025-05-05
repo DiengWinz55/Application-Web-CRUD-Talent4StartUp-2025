@@ -81,6 +81,15 @@ npm start
 #### Tableau de bord
 ![Dashboard](./Dasboard.png)
 
+#### CREATE(Ajout d'amployes)
+![Dashboard](./CREATE.png)
+
+#### UPDATE(Modification des information d'un employe)
+![Dashboard](./UPDATE.png)
+
+#### DELETE(Suppression d'employe)
+![Dashboard](./DELETE.png)
+
 ### Démo Vidéo
 
 ### Auteur
