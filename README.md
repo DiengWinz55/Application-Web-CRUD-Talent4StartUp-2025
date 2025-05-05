@@ -84,7 +84,7 @@ npm start
 ### Auteur
 - Projet réalisé par Thierno Bocar DIENG
 - Contact : tdieng591@gmail.com
-- LinkedIn: https://www.linkedin.com/in/thiernobocardieng/
+- LinkedIn: https://www.linkedin.com/in/thiernobocardieng/ <br>
 Dans le cadre de EDACY - Talent4Startups 2025
 
 
