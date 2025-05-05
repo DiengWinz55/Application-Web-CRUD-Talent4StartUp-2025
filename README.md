@@ -82,9 +82,9 @@ npm start
 ### Démo Vidéo
 
 ### Auteur
-Projet réalisé par [Thierno Bocar DIENG]
-Contact : [tdieng591@gmail.com]
-LinkedIn: [https://www.linkedin.com/in/thiernobocardieng/]
+- Projet réalisé par Thierno Bocar DIENG
+- Contact : tdieng591@gmail.com
+- LinkedIn: https://www.linkedin.com/in/thiernobocardieng/
 Dans le cadre de EDACY - Talent4Startups 2025
 
 
