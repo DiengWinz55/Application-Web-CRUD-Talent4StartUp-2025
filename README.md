@@ -41,7 +41,51 @@ Elle permet la gestion complète des employés via des opérations CRUD (Créer,
 - Git
 
 ---
-
+### 1. Clone le projet
 ```bash
-git clone 
+git clone https://github.com/DiengWinz55/Application-Web-CRUD-Talent4StartUp-2025.git
+cd Application-Web-CRUD-Talent4StartUp-2025
+```
+### 2. Lancer le backend (Django)
+```bash
 cd backend
+```
+#### Creation d'environnement virtuelle
+```bash
+python -m venv env
+```
+#### Activation de l'environnement virtuelle
+```bash
+source env/bin/activate   # Sur Windows : env\Scripts\activate
+```
+#### Installation dependances
+```bash
+pip install -r requirements.txt
+```
+#### Migration et lancement
+```bash
+python manage.py migrate  # Migration
+python manage.py runserver  # Lancement local
+```
+### 3. Lancer le frontend (React)
+```bash
+cd frontend
+npm install
+npm start
+```
+### Authentification
+- Utilisation de JWT (JSON Web Tokens)
+- L'utilisateur doit s'inscrire ou se connecter pour accéder aux fonctionnalités de gestion des employés
+
+### Captures d'écran
+
+### Démo Vidéo
+
+### Auteur
+Projet réalisé par [Thierno Bocar DIENG]
+Contact : [tdieng591@gmail.com]
+LinkedIn: [https://www.linkedin.com/in/thiernobocardieng/]
+Dans le cadre de EDACY - Talent4Startups 2025
+
+
+
